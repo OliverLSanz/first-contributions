@@ -17,6 +17,7 @@
 - [Kis9a](https://github.com/kis9a)
 Alex Ilyin (https://github.com/ilyin0)
 - Jeremy
+- [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
